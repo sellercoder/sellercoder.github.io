@@ -92,15 +92,15 @@ keywords: "разработка,бот для телеграм,боты,авто
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#353b48"
+navbar-col: "#2d3436"
 navbar-text-col: "#f5f6fa"
-navbar-border-col: "#2f3640"
+navbar-border-col: "#2d3436"
 page-col: "#f5f6fa"
-text-col: "#2f3640"
+text-col: "#2d3436"
 link-col: "#40739e"
 hover-col: "#487eb0"
-footer-col: "#dcdde1"
-footer-text-col: "#192a56"
+footer-col: "#dfe6e9"
+footer-text-col: "#2d3436"
 footer-link-col: "#00a8ff"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
