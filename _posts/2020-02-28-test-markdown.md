@@ -2,7 +2,7 @@
 layout: post
 title: Бот автопродаж готов
 subtitle: Пишу текст для промо материала
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/banner.svg
 tags: [проекты]
 ---
 
