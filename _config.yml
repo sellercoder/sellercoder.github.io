@@ -28,7 +28,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: /assets/img/avatar-icon.png
+# title-img: /assets/img/avatar-icon.png
 
 
 # --- Footer social media links --- #
@@ -36,19 +36,19 @@ title-img: /assets/img/avatar-icon.png
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-#  email: "someone@example.com"
+ email: "sellercoder-developer@gmail.com"
 #  facebook: deanattali
-#  github: daattali
+ github: sellercoder
 #  twitter: daattali
 #  patreon: DeanAttali
-#  youtube: c/daattali
+ youtube: c/daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
+ # instagram: deanat78
+ spotify: sellercoder
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
